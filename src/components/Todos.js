@@ -6,7 +6,11 @@ class Todos extends Component {
   return (
     <div >
      <h1>Todos App!</h1>
+<<<<<<< HEAD
      <p>Master Branch</p>
+=======
+     <p>Login Branch</p>
+>>>>>>> login
     </div>
   );
     }
