@@ -5,7 +5,7 @@ class Todos extends Component {
     render(){
   return (
     <div >
-     <h1>Todos App</h1>
+     <h1>Todos App!</h1>
     </div>
   );
     }
